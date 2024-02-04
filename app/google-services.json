@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593965107899",
+    "project_id": "uit-admin1",
+    "storage_bucket": "uit-admin1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593965107899:android:ee2a2ade56ae9553bb379e",
+        "android_client_info": {
+          "package_name": "com.coder178.uitadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593965107899-ph6d7dsvvfs6d8u4f85lm8m1iigd97en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM966iunC38pHS-1Hry8FvkZIDQDdVea0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593965107899-ph6d7dsvvfs6d8u4f85lm8m1iigd97en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
